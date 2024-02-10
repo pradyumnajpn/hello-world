@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
    <br>
-   <h1> Thank you Prudential, Happy Learning. Devops is very interesting..Loving it </h1>
+   <h1> Thank you Prudential Japan, Happy Learning. Devops is very interesting..Loving it </h1>
 
 
   
