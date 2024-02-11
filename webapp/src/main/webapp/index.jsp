@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
    <br>
-   <h1> Welcome to Prudential Tokyo,Japan, Happy Learning..</h1>
+   <h1> Welcome to Prudential Tokyo,Japan, Happy Learning </h1>
 
 
   
