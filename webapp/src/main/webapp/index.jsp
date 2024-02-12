@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for PSJL Tokyo</h1>
     <p>Please fill in this form to create an account.</p>
-    <p>アカウント登録</p>
+    <p>PSJL アカウント登録</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
