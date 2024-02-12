@@ -30,7 +30,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
    <br>
-   <h1> Welcome to Prudential Tokyo,Japan, Happy Learning :) Date: 11th Feb </h1>
+   <h1> Welcome to Prudential Tokyo,Japan, Happy Learning :) Date: 13th Feb </h1>
 
 
   
